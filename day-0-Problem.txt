@@ -1,0 +1,64 @@
+Objective
+In this challenge, we review some basic concepts that will get you started with this series. 
+You will need to use the same (or similar) syntax to read input and write output in challenges throughout 
+HackerRank. Check out the Tutorial tab for learning materials and an instructional video!
+
+*** Objetivo
+*** Neste desafio, revisamos alguns conceitos básicos que o ajudarão a começar esta série. 
+Você precisará usar a mesma sintaxe (ou semelhante) para ler a entrada e gravar a saída em desafios em todo o 
+HackerRank. Confira a guia Tutorial para materiais de aprendizagem e um vídeo de instrução!
+
+Task
+To complete this challenge, you must save a line of input from stdin to a variable, print Hello, World. 
+on a single line, and finally print the value of your variable on a second line.
+
+*** Tarefa
+*** Para completar este desafio, você deve salvar uma linha de entrada de stdin em uma variável, imprimir 
+Hello, World. em uma única linha e, finalmente, imprima o valor de sua variável em uma segunda linha.
+
+You've got this!
+Note: The instructions are Java-based, but we support submissions in many popular languages. 
+You can switch languages using the drop-down menu above your editor, and the InputString variable may be 
+written differently depending on the best-practice conventions of your submission language.
+
+*** Você conseguiu!
+*** Observação: as instruções são baseadas em Java, mas oferecemos suporte para envios em muitas linguagens populares. 
+Você pode alternar as linguagens usando o menu suspenso acima do seu editor, e a variável InputString pode ser 
+escrita de forma diferente dependendo das convenções de melhores práticas da linguagem que você escolher.
+
+Input Format
+A single line of text denoting InputString (the variable whose contents must be printed).
+
+*** Formato de entrada
+*** Uma única linha de texto denotando InputString (a variável cujo conteúdo deve ser impresso).
+
+Output Format
+Print Hello, World. on the first line, and the contents of InputString on the second line.
+
+*** Formato de saída
+*** Imprimir Olá, mundo. na primeira linha e o conteúdo de InputString na segunda linha.
+
+Sample Input
+Welcome to 30 Days of Code!
+
+*** Modelo de entrada
+*** Welcome to 30 Days of Code!
+
+Sample Output
+Hello, World. 
+Welcome to 30 Days of Code!
+
+*** Modelo de Saída
+Hello, World. 
+Welcome to 30 Days of Code!
+
+Explanation
+On the first line, we print the string literal Hello, World.. On the second line, we print the contents of the 
+InputString variable which, for this sample case, happens to be Welcome to 30 Days of Code!. If you do not print
+the variable's contents to stdout, you will not pass the hidden test case.
+
+*** Explicação
+*** Na primeira linha, imprimimos literalmente a string Hello, World. Na segunda linha, imprimimos o conteúdo da variável
+InputString que, neste caso de exemplo, é Welcome to 30 Days of Code !. Se você não imprimir o conteúdo da variável
+em stdout, não passará no caso de teste oculto.
+
