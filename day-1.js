@@ -28,4 +28,3 @@ console.log((d + b).toFixed(1))
 console.log(s + c)
 
  // The 's' variable above should be printed first.
-
