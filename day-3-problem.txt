@@ -1,0 +1,65 @@
+
+Objective
+In this challenge, we're getting started with conditional statements. Check out the Tutorial tab for
+learning materials and an instructional video!
+
+**** Objetivo
+**** Neste desafio, estamos iniciando com as instruções condicionais. Confira a guia Tutorial para
+materiais de aprendizagem e um vídeo instrutivo!
+
+Task
+Given an integer, n, perform the following conditional actions:
+
+**** Tarefa
+**** Dado um número inteiro, n, execute as seguintes ações condicionais:
+
+If n is odd, print Weird
+If n is even and in the inclusive range of 2 to 5, print Not Weird
+If n is even and in the inclusive range of 6 to 20, print Weird
+If n is even and greater than 20, print Not Weird
+Complete the stub code provided in your editor to print whether or not  is weird.
+
+**** Se n for ímpar, imprimir Weird (estranho)
+**** Se n for par e estiver no intervalo de 2 a 5, imprima Not Weird (não estranho)
+**** Se n for par e estiver no intervalo de 6 a 20, imprima Weird (estranho)
+**** Se n for par e maior que 20, imprime Not Weird (não estranho)
+**** Complete o código inicial fornecido em seu editor para imprimir, seja ou não estranho.
+
+Input Format
+A single line containing a positive integer, n.
+
+**** Formato de entrada
+**** Uma única linha contendo um número inteiro positivo, n.
+
+Constraints (Restrições)
+1 <= n <= 100
+
+Output Format
+Print Weird if the number is weird; otherwise, print Not Weird.
+
+**** Formato de saída
+**** Imprimir Weird se o número for estranho; caso contrário, imprima Not Weird.
+
+Sample Input 0
+3
+
+Sample Output 0
+Weird
+
+Sample Input 1
+24
+
+Sample Output 1
+Not Weird
+
+Explanation (Explicação)
+
+Sample Case 0: n=3
+n is odd and odd numbers are weird, so we print Weird.
+(n é ímpar e os números ímpares são estranhos, por isso imprimimos Weird).
+
+Sample Case 1: n=24
+n > 20 and n is even, so it isn't weird. Thus, we print Not Weird.
+(n > 20 e n são pares, então não são estranhos. Assim, imprimimos Not Weird).
+
+
